@@ -18,4 +18,4 @@ fi
 
 # Hand execution back to Swiish's original startup command
 # Swiish runs "npm start" or "node dist/main.js" depending on its release setup
-exec npm run serves
+exec npm run serve
